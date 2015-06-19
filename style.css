@@ -1,1 +1,15 @@
+/*
+Theme Name: WordPress Class single page
+Theme URI: https://github.com/rhildred/wordpressclasstheme/
+Author: Rich Hildred and Web Development Class of 2015
+Author URI: https://rhildred.github.io
+Description: This is a single page blog plus pamphlet theme.
+Version: 1.0
+License: MIT
+License URI: http://opensource.org/licenses/MIT
+Tags: responsive, single-page
+Text Domain: wordpressclasstheme
+This theme, is licensed under a MIT license.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
 @import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css");
